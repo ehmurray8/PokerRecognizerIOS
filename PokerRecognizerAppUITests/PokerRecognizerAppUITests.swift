@@ -1,8 +1,4 @@
 //
-//  PokerRecognizerAppUITests.swift
-//  PokerRecognizerAppUITests
-//
-//  Created by Murray, Emmet on 6/7/19.
 //  Copyright © 2019 Murray, Emmet. All rights reserved.
 //
 
